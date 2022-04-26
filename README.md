@@ -23,9 +23,8 @@ git clone https://github.com/kevin-ewing/hamiltonian-knot.git
 ---
 
 ## Sample Outputs
-![sample output 1](https://github.com/kevin-ewing/city_blender_scripting/blob/master/sample_out/o1.png?raw=true)
+![sample output 1](---https://github.com/kevin-ewing/hamiltonian-knot/blob/master/sample_out/o1.png)
 
----
 ## License
 MIT License
 
