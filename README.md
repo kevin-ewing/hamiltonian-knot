@@ -18,12 +18,16 @@ git clone https://github.com/kevin-ewing/hamiltonian-knot.git
 ---
 
 ## Usage
-
+Open the knot.py file within Blender, adjust global constants and run the script.
 
 ---
 
 ## Sample Outputs
 ![sample output 1](https://github.com/kevin-ewing/hamiltonian-knot/blob/master/sample_out/o1.png?raw=true)
+![sample output 2](https://github.com/kevin-ewing/hamiltonian-knot/blob/master/sample_out/o2.png?raw=true)
+![sample output 3](https://github.com/kevin-ewing/hamiltonian-knot/blob/master/sample_out/o3.png?raw=true)
+![sample output 4](https://github.com/kevin-ewing/hamiltonian-knot/blob/master/sample_out/o4.png?raw=true)
+![sample output 5](https://github.com/kevin-ewing/hamiltonian-knot/blob/master/sample_out/o5.png?raw=true)
 
 ## License
 MIT License
